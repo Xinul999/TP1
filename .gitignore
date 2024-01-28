@@ -1,2 +1,6 @@
 /package-lock.json
 /node_modules/
+/.idea/modules.xml
+/.idea/php.xml
+/.idea/tp1.iml
+/.idea/vcs.xml
